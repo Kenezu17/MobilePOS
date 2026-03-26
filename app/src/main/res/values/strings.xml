@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BrewPos</string>
+    <string name="welcome_lottie">welcome.lottie</string>
+    <string name="facebook_app_id">1422089545425668</string>
+    <string name="facebook_client_token">4723db77acf2b76e828ee15205fb722e</string>
+    <string name="fb_login_protocol_scheme">fb1422089545425668</string>
+
+    <!-- Add these entries to your res/values/strings.xml -->
+
+    <string name="app_title">BrewPos</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or_sign_with">- Or sign with -</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="subtitle">Life begins after coffee</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+
+</resources>

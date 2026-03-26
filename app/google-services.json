@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "762199211621",
+    "project_id": "brewposapp",
+    "storage_bucket": "brewposapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762199211621:android:f39ade6dcf498496f2108c",
+        "android_client_info": {
+          "package_name": "com.example.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762199211621-g5p11otrbi2ou12nn4j2pl6t5fbdhor5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pos",
+            "certificate_hash": "d1f0a3a136b91009367e7f54a1f9daa9f04d3857"
+          }
+        },
+        {
+          "client_id": "762199211621-kdlhllfejl5fnt63s4m8g3himjrgbqnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pos",
+            "certificate_hash": "718b4fe04f3bc9fe058c5364792bd951e3fd5a63"
+          }
+        },
+        {
+          "client_id": "762199211621-i91ddv4u05f37781sd2edc4ijugfqof3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNgV8020CORJQWX4lO4Sog9mGsU3vCao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762199211621-i91ddv4u05f37781sd2edc4ijugfqof3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762199211621:android:eeb4918482e905fbf2108c",
+        "android_client_info": {
+          "package_name": "com.pos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762199211621-i91ddv4u05f37781sd2edc4ijugfqof3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvNgV8020CORJQWX4lO4Sog9mGsU3vCao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762199211621-i91ddv4u05f37781sd2edc4ijugfqof3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
