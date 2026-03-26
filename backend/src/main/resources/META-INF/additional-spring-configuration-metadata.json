@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "semaphore.apiKey",
+      "type": "java.lang.String",
+      "description": "Description for semaphore.apiKey."
+    },
+    {
+      "name": "semaphore.senderName",
+      "type": "java.lang.String",
+      "description": "Description for semaphore.senderName."
+    }
+  ] }
