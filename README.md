@@ -1,4 +1,5 @@
 # BrewPOS Mobile
+d
 
 BrewPOS Mobile is a mobile Point of Sale (POS) application designed for coffee shops and small businesses. It helps employees and business owners manage sales, products, and inventory through a user-friendly mobile interface. The application uses a Spring Boot backend for business logic and Firebase for authentication and cloud data services.
 
